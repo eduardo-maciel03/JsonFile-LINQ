@@ -1,0 +1,15 @@
+D:\Projetos\JsonFile\JsonFile\bin\Debug\net7.0\JsonFile.exe
+D:\Projetos\JsonFile\JsonFile\bin\Debug\net7.0\JsonFile.deps.json
+D:\Projetos\JsonFile\JsonFile\bin\Debug\net7.0\JsonFile.runtimeconfig.json
+D:\Projetos\JsonFile\JsonFile\bin\Debug\net7.0\JsonFile.dll
+D:\Projetos\JsonFile\JsonFile\bin\Debug\net7.0\JsonFile.pdb
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.csproj.AssemblyReference.cache
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.AssemblyInfoInputs.cache
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.AssemblyInfo.cs
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.csproj.CoreCompileInputs.cache
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.dll
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\refint\JsonFile.dll
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.pdb
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\JsonFile.genruntimeconfig.cache
+D:\Projetos\JsonFile\JsonFile\obj\Debug\net7.0\ref\JsonFile.dll
