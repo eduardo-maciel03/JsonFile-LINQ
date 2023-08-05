@@ -18,7 +18,7 @@ namespace JsonFile
         public static void Serializing(string file)
         {
             Users user1 = new Users(1, "Eduardo");
-            Users user2 = new Users(2, "Luiz");
+            Users user2 = new Users(2, "Another user");
 
             string json1 = JsonSerializer.Serialize(user1);
             string json2 = JsonSerializer.Serialize(user2);
@@ -55,7 +55,7 @@ namespace JsonFile
             //            select user;
 
             //LINQ with lambda
-            var query = list.Where(user => user.Name.Equals("Luiz"));
+            var query = list.Where(user => user.Name.Equals("Eduardo"));
 
             foreach (var item in query)
             {
